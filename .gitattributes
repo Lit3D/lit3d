@@ -1,0 +1,4 @@
+*.dll binary
+*.exe binary
+*.so binary
+*.woff2 binary

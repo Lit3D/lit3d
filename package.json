@@ -1,0 +1,20 @@
+{
+  "name": "lit3d-system",
+  "version": "0.5.0",
+  "description": "WEB based media expositions engine",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lit3d/lit3d.git"
+  },
+  "homepage": "https://github.com/lit3d/lit3d",
+  "bugs": "https://github.com/lit3d/lit3d/issues",
+  "author": "Wisdman <wisdman@wisdman.io> (https://github.com/wisdman)",
+  "contributors": [
+    "Wisdman <wisdman@wisdman.io> (https://github.com/wisdman)",
+    "Yulia Fedyakina <yuliaf@lit3d.io> (https://github.com/saigach)"
+  ],
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "workspaces": [ "cmd/*", "internal/*", "pkg/*", "vendor/*" ]
+}
